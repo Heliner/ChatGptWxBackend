@@ -11,3 +11,6 @@ ChatGpt聊天室微信小程序，一键部署到微信小程序，即可支持g
 
 # 关联程序
 后台项目：https://github.com/Heliner/ChatGptWxMiniProgram
+
+# 警告⚠
+使用API调用接口很容易导致账号被封，请谨慎使用，可以考虑通过web接口等方式接入
